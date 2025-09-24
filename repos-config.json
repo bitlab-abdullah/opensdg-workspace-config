@@ -1,0 +1,15 @@
+{
+  "lastUpdated": "2025-09-24T16:29:25Z",
+  "repositories": [
+    {
+      "url": "https://github.com/bitlab-abdullah/png-site",
+      "type": "site",
+      "addedAt": "2025-09-24T16:29:25Z"
+    },
+    {
+      "url": "https://github.com/bitlab-abdullah/png-data",
+      "type": "data",
+      "addedAt": "2025-09-24T16:29:25Z"
+    }
+  ]
+}
