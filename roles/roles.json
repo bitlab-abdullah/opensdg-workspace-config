@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "created": "2026-01-19T07:28:09Z",
+  "roles": [
+    {
+      "id": "admin",
+      "name": "Administrator"
+    },
+    {
+      "id": "editor",
+      "name": "Editor"
+    }
+  ],
+  "users": [
+    {
+      "github": "bitlab-abdullah",
+      "roles": [
+        "admin"
+      ],
+      "expiresAt": null
+    }
+  ],
+  "signature": "KdAPttvK/XhQune/YYtKNcTjv46mP20he//5inj9TM6\u002BZd\u002Bj/PnKaGmdhuweL1WcF06LwZm01lc1zfDwi4XutWdRPRrkh9z4nLxdnKWfvvNHXoBOL9ffPq0MFau1WwT2fGvbBa\u002Bi3QTn4dVFI6OOd\u002BjkA6bUQK1ZLMjSvieiC1uILBv7Hwp0F5Z/TXwnlACfjCYNjoYfd6zflhv9QMaJphlWmt//8FvadK3syLpNgc/h9ndLi4wZtUxm5FRHRLXSFFelaxs/afJHB9PbL7uXQQ1r\u002BcAr9N5Dtzx\u002BR81EgHc4ayx\u002Bjlh7GUnfHQhCGMeftutM0Ct/3s3HUXTF8W2DzQ=="
+}
